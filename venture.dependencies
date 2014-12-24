@@ -34,23 +34,5 @@
     "repository": "TheMuppets/proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "revision": "cm-12.0"
-  },
-  {
-    "remote": "github",
-    "repository": "SlimRoms/hardware_qcom_audio-caf",
-    "target_path": "hardware/qcom/audio-caf/msm8974",
-    "revision": "lp5.0-caf-8974"
-  },
-  {
-    "remote": "github",
-    "repository": "SlimRoms/hardware_qcom_display-caf",
-    "target_path": "hardware/qcom/display-caf/msm8974",
-    "revision": "lp5.0-caf-8974"
-  },
-  {
-    "remote": "github",
-    "repository": "SlimRoms/hardware_qcom_media-caf",
-    "target_path": "hardware/qcom/media-caf/msm8974",
-    "revision": "lp5.0-caf-8974"
   }
 ]
